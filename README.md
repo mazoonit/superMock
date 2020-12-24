@@ -1,2 +1,2 @@
 # superMock
-super mock is an initiative initiated by mostafa mohamed and mazen soliman to occupy their sparetime.
+superMock is a collection of side-projects created by Mazen Soliman @decryptor007 , Mostafa Mohamed @mmrgeek ... and the rest are coming.
