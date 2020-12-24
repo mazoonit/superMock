@@ -3,8 +3,8 @@
 #include <ESP8266WebServer.h>
 
 /*Put your SSID & Password*/
-const char* ssid = "Yalla Bena";  // Enter SSID here
-const char* password = "pablo@marawan";  //Enter Password here
+const char* ssid = "LOLL";  // Enter SSID here
+const char* password = "STILL LOLLL";  //Enter Password here
 
 ESP8266WebServer server(80);
 
